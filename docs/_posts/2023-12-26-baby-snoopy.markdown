@@ -7,9 +7,9 @@ categories: jekyll update
 
 it worked!
 
-snoopy <3
+snoopy <333
 
-![snoopy](/docs/assets/babysnoopy.jpg)
+![snoopy](/docs/_assets/images/babysnoopy.jpg)
 
 [here][home]'s a link to the home page
 
