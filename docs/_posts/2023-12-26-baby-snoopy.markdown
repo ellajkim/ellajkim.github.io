@@ -9,7 +9,7 @@ it worked!
 
 snoopy <333
 
-![snoopy](/docs/assets/images/babysnoopy.jpg)
+![snoopy](/assets/images/babysnoopy.jpg)
 
 [here][home]'s a link to the home page
 
